@@ -2,6 +2,7 @@ package com.sun.git;
 
 public class Good {
 	public static void main(String[] args) {
-		System.out.println("Ê×´ÎÑ§Ï°£¬¶à¶àÖ¸½Ì");
+		System.out.println("ï¿½×´ï¿½Ñ§Ï°ï¿½ï¿½ï¿½ï¿½ï¿½Ö¸ï¿½ï¿½");
+		System.out.println("å†²çªè§£å†³");
 	}
 }
